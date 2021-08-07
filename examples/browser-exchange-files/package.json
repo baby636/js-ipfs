@@ -13,7 +13,7 @@
   "devDependencies": {
     "browserify": "^17.0.0",
     "execa": "^5.0.0",
-    "http-server": "^0.12.3",
+    "http-server": "^0.13.0",
     "ipfs-http-client": "^50.0.0",
     "uint8arrays": "^2.1.3"
   },
