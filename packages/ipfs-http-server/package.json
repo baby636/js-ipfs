@@ -56,7 +56,7 @@
     "it-to-stream": "^1.0.0",
     "iterable-ndjson": "^1.1.0",
     "joi": "^17.2.1",
-    "just-safe-set": "^2.2.1",
+    "just-safe-set": "^4.0.2",
     "multiaddr": "^9.0.1",
     "multibase": "^4.0.2",
     "multicodec": "^3.0.1",
