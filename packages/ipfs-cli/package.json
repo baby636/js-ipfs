@@ -40,7 +40,7 @@
     "ipfs-core": "^0.6.1",
     "ipfs-core-types": "^0.4.0",
     "ipfs-core-utils": "^0.8.0",
-    "ipfs-daemon": "^0.6.1",
+    "ipfs-daemon": "^0.12.0",
     "ipfs-http-client": "^50.0.0",
     "ipfs-repo": "^9.1.6",
     "ipfs-utils": "^7.0.0",
