@@ -39,8 +39,8 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "ipfs-cli": "^0.5.1",
-    "ipfs-core": "^0.6.1",
+    "ipfs-cli": "^0.14.0",
+    "ipfs-core": "^0.16.0",
     "semver": "^7.3.2",
     "update-notifier": "^5.0.0"
   },
