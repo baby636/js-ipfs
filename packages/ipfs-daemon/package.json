@@ -47,7 +47,7 @@
     "multiaddr": "^9.0.1"
   },
   "devDependencies": {
-    "aegir": "^33.0.0",
+    "aegir": "^37.0.0",
     "node-fetch": "^2.6.1",
     "ws": "^7.3.1"
   },
