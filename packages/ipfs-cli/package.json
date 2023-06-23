@@ -69,13 +69,13 @@
   "devDependencies": {
     "@types/progress": "^2.0.3",
     "@types/yargs": "^16.0.0",
-    "aegir": "^33.0.0",
+    "aegir": "^37.5.2",
     "nanoid": "^3.1.12",
     "ncp": "^2.0.0",
     "peer-id": "^0.14.1",
     "rimraf": "^3.0.2",
     "sinon": "^10.0.1",
     "string-argv": "^0.3.1",
-    "temp-write": "^4.0.0"
+    "temp-write": "^5.0.0"
   }
 }
