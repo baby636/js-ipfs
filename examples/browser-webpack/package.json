@@ -15,7 +15,7 @@
     "@babel/core": "^7.13.10",
     "@babel/preset-env": "^7.13.12",
     "@babel/preset-react": "^7.12.13",
-    "babel-loader": "^8.2.2",
+    "babel-loader": "^9.0.0",
     "copy-webpack-plugin": "^8.1.0",
     "node-polyfill-webpack-plugin": "^1.0.3",
     "react": "^17.0.2",
@@ -29,7 +29,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "ipfs": "^0.55.1"
+    "ipfs": "^0.64.0"
   },
   "browserslist": [
     "last 2 versions and not dead and > 2%"
