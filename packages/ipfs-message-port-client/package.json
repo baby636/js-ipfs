@@ -37,11 +37,11 @@
     "cids": "^1.1.6",
     "ipfs-core-types": "^0.4.0",
     "ipfs-message-port-protocol": "^0.7.0",
-    "ipfs-unixfs": "^4.0.3"
+    "ipfs-unixfs": "^7.0.0"
   },
   "devDependencies": {
     "aegir": "^33.0.0",
-    "interface-ipfs-core": "^0.145.1",
+    "interface-ipfs-core": "^0.156.0",
     "ipfs-core": "^0.6.1",
     "ipfs-message-port-server": "^0.7.0",
     "rimraf": "^3.0.2"
