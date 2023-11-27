@@ -11,13 +11,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "ipfs": "^0.55.1",
+    "ipfs": "^0.57.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "5.0.0-alpha.8",
     "@vue/cli-plugin-eslint": "5.0.0-alpha.8",
-    "@vue/cli-service": "5.0.0-alpha.8",
+    "@vue/cli-service": "5.0.1",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.22.0",
     "eslint-plugin-vue": "^7.8.0",
