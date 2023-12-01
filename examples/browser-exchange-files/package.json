@@ -21,7 +21,7 @@
     "ipfs": "^0.55.1",
     "it-all": "^1.0.4",
     "libp2p-websockets": "^0.15.6",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "test-ipfs-example": "^3.0.0"
   }
 }
