@@ -27,6 +27,6 @@
   "devDependencies": {
     "mkdirp": "^1.0.4",
     "protobufjs": "^6.10.2",
-    "rimraf": "^3.0.2"
+    "rimraf": "^4.0.0"
   }
 }
