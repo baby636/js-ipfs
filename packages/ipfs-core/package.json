@@ -127,7 +127,7 @@
     "aegir": "^33.0.0",
     "delay": "^5.0.0",
     "go-ipfs": "0.8.0",
-    "interface-ipfs-core": "^0.145.1",
+    "interface-ipfs-core": "^0.158.1",
     "ipfsd-ctl": "^8.0.1",
     "ipld-git": "^0.6.1",
     "iso-url": "^1.0.0",
