@@ -46,10 +46,10 @@
     "multiaddr": "^9.0.1",
     "protobufjs": "^6.10.2",
     "wherearewe": "1.0.0",
-    "ws": "^7.3.1"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
-    "aegir": "^33.0.0",
+    "aegir": "^37.1.1",
     "it-all": "^1.0.4",
     "rimraf": "^3.0.2",
     "sinon": "^10.0.1"
