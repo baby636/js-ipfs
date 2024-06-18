@@ -32,12 +32,12 @@
     "dep-check": "aegir dep-check -i aegir -i rimraf"
   },
   "dependencies": {
-    "ipfs-grpc-client": "^0.3.0",
+    "ipfs-grpc-client": "^0.13.1",
     "ipfs-http-client": "^50.0.0",
     "merge-options": "^3.0.4"
   },
   "devDependencies": {
-    "aegir": "^33.0.0",
+    "aegir": "^37.1.1",
     "rimraf": "^3.0.2"
   }
 }
