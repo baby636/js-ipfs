@@ -52,7 +52,7 @@
     "aegir": "^33.0.0",
     "it-all": "^1.0.4",
     "rimraf": "^3.0.2",
-    "sinon": "^10.0.1"
+    "sinon": "^19.0.0"
   },
   "eslintConfig": {
     "extends": "ipfs"
