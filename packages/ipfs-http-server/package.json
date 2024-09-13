@@ -78,7 +78,7 @@
     "it-to-buffer": "^2.0.0",
     "qs": "^6.9.4",
     "rimraf": "^3.0.2",
-    "sinon": "^10.0.1",
+    "sinon": "^19.0.0",
     "stream-to-promise": "^3.0.0"
   },
   "optionalDependencies": {
