@@ -42,7 +42,7 @@
   "devDependencies": {
     "aegir": "^33.0.0",
     "interface-ipfs-core": "^0.145.1",
-    "ipfs-core": "^0.6.1",
+    "ipfs-core": "^0.18.1",
     "ipfs-message-port-server": "^0.7.0",
     "rimraf": "^3.0.2"
   },
