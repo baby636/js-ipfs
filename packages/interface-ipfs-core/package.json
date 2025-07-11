@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "abort-controller": "^3.0.0",
-    "aegir": "^33.0.0",
+    "aegir": "^41.3.3",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "chai-subset": "^1.6.0",
@@ -62,7 +62,7 @@
     "it-last": "^1.0.4",
     "it-map": "^1.0.4",
     "it-pushable": "^1.4.0",
-    "libp2p-crypto": "^0.19.3",
+    "libp2p-crypto": "^0.21.2",
     "libp2p-websockets": "^0.15.6",
     "multiaddr": "^9.0.1",
     "multibase": "^4.0.2",
@@ -71,7 +71,7 @@
     "native-abort-controller": "^1.0.3",
     "p-map": "^4.0.0",
     "p-retry": "^4.5.0",
-    "peer-id": "^0.14.1",
+    "peer-id": "^0.16.0",
     "readable-stream": "^3.4.0",
     "uint8arrays": "^2.1.3"
   },
