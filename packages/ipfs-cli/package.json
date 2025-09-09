@@ -51,7 +51,7 @@
     "it-first": "^1.0.4",
     "it-glob": "0.0.11",
     "it-pipe": "^1.1.0",
-    "jsondiffpatch": "^0.4.1",
+    "jsondiffpatch": "^0.7.2",
     "libp2p-crypto": "^0.19.3",
     "mafmt": "^9.0.0",
     "multiaddr": "^9.0.1",
