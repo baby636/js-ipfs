@@ -35,7 +35,7 @@
     "multibase": "^4.0.2"
   },
   "devDependencies": {
-    "aegir": "^33.0.0"
+    "aegir": "^36.2.3"
   },
   "contributors": [
     "Irakli Gozalishvili <dev@gozala.io>"
